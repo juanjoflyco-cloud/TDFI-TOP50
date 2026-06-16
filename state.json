@@ -2,11 +2,11 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1781606125999,
+    "last_close_time": 1781604041753,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1781606124999,
+    "last_close_time": 1781604041783,
     "last_zone": "neutral"
   },
   "tether": {
