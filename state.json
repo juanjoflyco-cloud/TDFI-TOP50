@@ -2,7 +2,7 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1781621029999,
+    "last_close_time": 1781621611999,
     "last_zone": "neutral"
   },
   "ethereum": {
@@ -30,11 +30,11 @@
     "last_zone": "green"
   },
   "hedera-hashgraph": {
-    "last_close_time": 1781604060555,
+    "last_close_time": 1781618417216,
     "last_zone": "neutral"
   },
   "litecoin": {
-    "last_close_time": 1781604045454,
+    "last_close_time": 1781618437572,
     "last_zone": "neutral"
   },
   "lab": {
@@ -59,6 +59,10 @@
   },
   "ripple": {
     "last_close_time": 1781618436946,
+    "last_zone": "neutral"
+  },
+  "bitcoin-cash": {
+    "last_close_time": 1781618460326,
     "last_zone": "neutral"
   }
 }
