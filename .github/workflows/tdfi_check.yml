@@ -1,4 +1,4 @@
-name: TDFI Screener BTC/USDT 1h
+name: TDFI Screener TOP50 1h
 
 on:
   schedule:
