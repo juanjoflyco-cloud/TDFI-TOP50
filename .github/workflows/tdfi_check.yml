@@ -1,0 +1,39 @@
+name: TDFI Screener BTC/USDT 1h
+
+on:
+  schedule:
+    # Cada hora, en el minuto 2 (UTC) -> poco después de cerrar la vela de 1h
+    - cron: "2 * * * *"
+  workflow_dispatch: {}   # permite ejecutarlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write   # necesario para poder commitear state.json
+
+jobs:
+  check-tdfi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar screener TDFI
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python tdfi_alert.py
+
+      - name: Guardar estado actualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "Actualizar estado TDFI [skip ci]"
+          git push
