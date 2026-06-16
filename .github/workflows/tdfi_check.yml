@@ -3,7 +3,7 @@ name: TDFI Screener TOP50 1h
 on:
   schedule:
     # Cada hora, en el minuto 2 (UTC) -> poco después de cerrar la vela de 1h
-    - cron: "2 * * * *"
+    - cron: '2 * * * *'
   workflow_dispatch: {}   # permite ejecutarlo manualmente desde la pestaña Actions
 
 permissions:
