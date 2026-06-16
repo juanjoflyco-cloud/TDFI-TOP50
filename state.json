@@ -2,11 +2,11 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1781600457274,
+    "last_close_time": 1781604895999,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1781600449838,
+    "last_close_time": 1781604905999,
     "last_zone": "neutral"
   },
   "tether": {
@@ -39,6 +39,18 @@
   },
   "lab": {
     "last_close_time": 1781604042209,
+    "last_zone": "neutral"
+  },
+  "uniswap": {
+    "last_close_time": 1781604041259,
+    "last_zone": "green"
+  },
+  "aster-2": {
+    "last_close_time": 1781604061796,
+    "last_zone": "green"
+  },
+  "polkadot": {
+    "last_close_time": 1781604026328,
     "last_zone": "neutral"
   }
 }
