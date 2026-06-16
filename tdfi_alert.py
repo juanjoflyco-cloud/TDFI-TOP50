@@ -199,7 +199,11 @@ def main():
     total_signals = len(signals_green) + len(signals_red)
 
     if total_signals == 0:
-        print("Sin señales esta hora. No se envía mensaje.")
+        print("Sin señales esta hora.")
+        send_telegram(
+            f"⏳ <b>TDFI Screener</b> · Top {TOP_N} · {INTERVAL}\n"
+            f"Sin señales esta hora · todas las monedas en zona neutral o sin cambio"
+        )
         return
 
     lines = [f"🔔 <b>TDFI Screener</b> · Top {TOP_N} · {INTERVAL}\n"]
