@@ -1,4 +1,44 @@
 {
   "last_close_time": null,
-  "last_zone": null
+  "last_zone": null,
+  "bitcoin": {
+    "last_close_time": 1781600457274,
+    "last_zone": "neutral"
+  },
+  "ethereum": {
+    "last_close_time": 1781600449838,
+    "last_zone": "neutral"
+  },
+  "tether": {
+    "last_close_time": 1781604042343,
+    "last_zone": "red"
+  },
+  "binancecoin": {
+    "last_close_time": 1781600442316,
+    "last_zone": "neutral"
+  },
+  "the-open-network": {
+    "last_close_time": 1781604046194,
+    "last_zone": "red"
+  },
+  "dai": {
+    "last_close_time": 1781604022201,
+    "last_zone": "neutral"
+  },
+  "memecore": {
+    "last_close_time": 1781604040513,
+    "last_zone": "green"
+  },
+  "hedera-hashgraph": {
+    "last_close_time": 1781604060555,
+    "last_zone": "neutral"
+  },
+  "litecoin": {
+    "last_close_time": 1781604045454,
+    "last_zone": "neutral"
+  },
+  "lab": {
+    "last_close_time": 1781604042209,
+    "last_zone": "neutral"
+  }
 }
