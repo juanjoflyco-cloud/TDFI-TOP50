@@ -2,11 +2,11 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1781604895999,
+    "last_close_time": 1781606125999,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1781604905999,
+    "last_close_time": 1781606124999,
     "last_zone": "neutral"
   },
   "tether": {
@@ -14,7 +14,7 @@
     "last_zone": "red"
   },
   "binancecoin": {
-    "last_close_time": 1781600442316,
+    "last_close_time": 1781604041717,
     "last_zone": "neutral"
   },
   "the-open-network": {
@@ -52,5 +52,9 @@
   "polkadot": {
     "last_close_time": 1781604026328,
     "last_zone": "neutral"
+  },
+  "usd1-wlfi": {
+    "last_close_time": 1781604002601,
+    "last_zone": "red"
   }
 }
