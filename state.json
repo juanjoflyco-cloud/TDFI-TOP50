@@ -2,20 +2,20 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1781621611999,
+    "last_close_time": 1781641985999,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1781618446913,
+    "last_close_time": 1781640041114,
     "last_zone": "neutral"
   },
   "tether": {
-    "last_close_time": 1781618428208,
+    "last_close_time": 1781640072583,
     "last_zone": "red"
   },
   "binancecoin": {
-    "last_close_time": 1781618441668,
-    "last_zone": "neutral"
+    "last_close_time": 1781640042208,
+    "last_zone": "red"
   },
   "the-open-network": {
     "last_close_time": 1781604046194,
@@ -26,12 +26,12 @@
     "last_zone": "neutral"
   },
   "memecore": {
-    "last_close_time": 1781618476320,
+    "last_close_time": 1781640024901,
     "last_zone": "green"
   },
   "hedera-hashgraph": {
-    "last_close_time": 1781618417216,
-    "last_zone": "neutral"
+    "last_close_time": 1781640071600,
+    "last_zone": "red"
   },
   "litecoin": {
     "last_close_time": 1781618437572,
@@ -64,5 +64,33 @@
   "bitcoin-cash": {
     "last_close_time": 1781618460326,
     "last_zone": "neutral"
+  },
+  "sui": {
+    "last_close_time": 1781640041487,
+    "last_zone": "neutral"
+  },
+  "near": {
+    "last_close_time": 1781640025818,
+    "last_zone": "neutral"
+  },
+  "shiba-inu": {
+    "last_close_time": 1781640022634,
+    "last_zone": "neutral"
+  },
+  "paypal-usd": {
+    "last_close_time": 1781640070020,
+    "last_zone": "green"
+  },
+  "crypto-com-chain": {
+    "last_close_time": 1781640040909,
+    "last_zone": "red"
+  },
+  "tether-gold": {
+    "last_close_time": 1781640031085,
+    "last_zone": "neutral"
+  },
+  "bittensor": {
+    "last_close_time": 1781640041075,
+    "last_zone": "red"
   }
 }
