@@ -4,7 +4,7 @@ on:
   schedule:
     # Cada hora, en el minuto 2 (UTC) -> poco después de cerrar la vela de 1h
     - cron: '2 * * * *'
-    timezone: 'Europe/Madrid'
+     timezone: 'Europe/Madrid'
   workflow_dispatch: {}   # permite ejecutarlo manualmente desde la pestaña Actions
 
 permissions:
