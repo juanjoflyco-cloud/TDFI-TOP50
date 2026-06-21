@@ -2,19 +2,19 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1781992225999,
+    "last_close_time": 1782039301999,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1781989238763,
+    "last_close_time": 1782036040212,
     "last_zone": "neutral"
   },
   "tether": {
-    "last_close_time": 1781989240693,
-    "last_zone": "neutral"
+    "last_close_time": 1782036017814,
+    "last_zone": "red"
   },
   "binancecoin": {
-    "last_close_time": 1781989208198,
+    "last_close_time": 1782036044335,
     "last_zone": "neutral"
   },
   "the-open-network": {
@@ -30,8 +30,8 @@
     "last_zone": "neutral"
   },
   "hedera-hashgraph": {
-    "last_close_time": 1781989239103,
-    "last_zone": "neutral"
+    "last_close_time": 1782036043401,
+    "last_zone": "red"
   },
   "litecoin": {
     "last_close_time": 1781989239560,
@@ -70,28 +70,28 @@
     "last_zone": "neutral"
   },
   "near": {
-    "last_close_time": 1781640025818,
-    "last_zone": "neutral"
-  },
-  "shiba-inu": {
-    "last_close_time": 1781640022634,
-    "last_zone": "neutral"
-  },
-  "paypal-usd": {
-    "last_close_time": 1781640070020,
+    "last_close_time": 1782036046082,
     "last_zone": "green"
   },
-  "crypto-com-chain": {
-    "last_close_time": 1781640040909,
+  "shiba-inu": {
+    "last_close_time": 1782036050262,
     "last_zone": "red"
   },
+  "paypal-usd": {
+    "last_close_time": 1782036056990,
+    "last_zone": "red"
+  },
+  "crypto-com-chain": {
+    "last_close_time": 1782036023373,
+    "last_zone": "neutral"
+  },
   "tether-gold": {
-    "last_close_time": 1781640031085,
+    "last_close_time": 1782036047429,
     "last_zone": "neutral"
   },
   "bittensor": {
-    "last_close_time": 1781640041075,
-    "last_zone": "red"
+    "last_close_time": 1782036049493,
+    "last_zone": "neutral"
   },
   "ondo-finance": {
     "last_close_time": 1781949645060,
@@ -102,11 +102,19 @@
     "last_zone": "neutral"
   },
   "usd-coin": {
-    "last_close_time": 1781737228740,
+    "last_close_time": 1782036042133,
     "last_zone": "neutral"
   },
   "ripple-usd": {
     "last_close_time": 1781870475488,
     "last_zone": "neutral"
+  },
+  "global-dollar": {
+    "last_close_time": 1782036055291,
+    "last_zone": "red"
+  },
+  "ondo-us-dollar-yield": {
+    "last_close_time": 1782036052389,
+    "last_zone": "red"
   }
 }
