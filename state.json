@@ -2,19 +2,19 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1782079212887,
+    "last_close_time": 1782104427835,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1782075623262,
+    "last_close_time": 1782104471145,
     "last_zone": "neutral"
   },
   "tether": {
-    "last_close_time": 1782075623499,
-    "last_zone": "neutral"
+    "last_close_time": 1782104450229,
+    "last_zone": "red"
   },
   "binancecoin": {
-    "last_close_time": 1782075670232,
+    "last_close_time": 1782104410061,
     "last_zone": "neutral"
   },
   "the-open-network": {
@@ -22,12 +22,12 @@
     "last_zone": "red"
   },
   "dai": {
-    "last_close_time": 1782079221310,
+    "last_close_time": 1782104418688,
     "last_zone": "neutral"
   },
   "memecore": {
-    "last_close_time": 1782057651632,
-    "last_zone": "neutral"
+    "last_close_time": 1782104442612,
+    "last_zone": "green"
   },
   "hedera-hashgraph": {
     "last_close_time": 1782036043401,
@@ -62,7 +62,7 @@
     "last_zone": "neutral"
   },
   "bitcoin-cash": {
-    "last_close_time": 1782075623415,
+    "last_close_time": 1782104439574,
     "last_zone": "neutral"
   },
   "sui": {
@@ -94,7 +94,7 @@
     "last_zone": "neutral"
   },
   "ondo-finance": {
-    "last_close_time": 1782079222925,
+    "last_close_time": 1782104427930,
     "last_zone": "neutral"
   },
   "mantle": {
@@ -102,12 +102,12 @@
     "last_zone": "neutral"
   },
   "usd-coin": {
-    "last_close_time": 1782036042133,
-    "last_zone": "neutral"
+    "last_close_time": 1782104447646,
+    "last_zone": "red"
   },
   "ripple-usd": {
-    "last_close_time": 1782075674247,
-    "last_zone": "green"
+    "last_close_time": 1782104475825,
+    "last_zone": "neutral"
   },
   "global-dollar": {
     "last_close_time": 1782036055291,
