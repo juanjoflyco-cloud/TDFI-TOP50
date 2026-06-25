@@ -2,24 +2,24 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1782383071999,
-    "last_zone": "neutral"
+    "last_close_time": 1782412533999,
+    "last_zone": "red"
   },
   "ethereum": {
-    "last_close_time": 1782383099999,
-    "last_zone": "neutral"
+    "last_close_time": 1782410420868,
+    "last_zone": "red"
   },
   "tether": {
-    "last_close_time": 1782381639100,
+    "last_close_time": 1782410416375,
     "last_zone": "neutral"
   },
   "binancecoin": {
-    "last_close_time": 1782381611223,
+    "last_close_time": 1782410465379,
     "last_zone": "neutral"
   },
   "the-open-network": {
-    "last_close_time": 1782381614555,
-    "last_zone": "neutral"
+    "last_close_time": 1782410400855,
+    "last_zone": "red"
   },
   "dai": {
     "last_close_time": 1782104418688,
@@ -30,11 +30,11 @@
     "last_zone": "red"
   },
   "hedera-hashgraph": {
-    "last_close_time": 1782338460029,
-    "last_zone": "neutral"
+    "last_close_time": 1782410438484,
+    "last_zone": "red"
   },
   "litecoin": {
-    "last_close_time": 1782338434359,
+    "last_close_time": 1782410404838,
     "last_zone": "neutral"
   },
   "lab": {
@@ -62,7 +62,7 @@
     "last_zone": "neutral"
   },
   "bitcoin-cash": {
-    "last_close_time": 1782338427650,
+    "last_close_time": 1782410416141,
     "last_zone": "neutral"
   },
   "sui": {
@@ -94,7 +94,7 @@
     "last_zone": "neutral"
   },
   "ondo-finance": {
-    "last_close_time": 1782104427930,
+    "last_close_time": 1782410409489,
     "last_zone": "neutral"
   },
   "mantle": {
@@ -102,7 +102,7 @@
     "last_zone": "neutral"
   },
   "usd-coin": {
-    "last_close_time": 1782252010846,
+    "last_close_time": 1782410465439,
     "last_zone": "neutral"
   },
   "ripple-usd": {
