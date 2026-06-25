@@ -2,23 +2,23 @@
   "last_close_time": null,
   "last_zone": null,
   "bitcoin": {
-    "last_close_time": 1782341785999,
+    "last_close_time": 1782383071999,
     "last_zone": "neutral"
   },
   "ethereum": {
-    "last_close_time": 1782341787999,
+    "last_close_time": 1782383099999,
     "last_zone": "neutral"
   },
   "tether": {
-    "last_close_time": 1782338423890,
-    "last_zone": "red"
+    "last_close_time": 1782381639100,
+    "last_zone": "neutral"
   },
   "binancecoin": {
-    "last_close_time": 1782338424583,
+    "last_close_time": 1782381611223,
     "last_zone": "neutral"
   },
   "the-open-network": {
-    "last_close_time": 1782338470032,
+    "last_close_time": 1782381614555,
     "last_zone": "neutral"
   },
   "dai": {
@@ -46,7 +46,7 @@
     "last_zone": "green"
   },
   "aster-2": {
-    "last_close_time": 1782144069217,
+    "last_close_time": 1782381638752,
     "last_zone": "neutral"
   },
   "polkadot": {
@@ -106,7 +106,7 @@
     "last_zone": "neutral"
   },
   "ripple-usd": {
-    "last_close_time": 1782295274702,
+    "last_close_time": 1782381661238,
     "last_zone": "neutral"
   },
   "global-dollar": {
@@ -118,11 +118,15 @@
     "last_zone": "red"
   },
   "ethena-usde": {
-    "last_close_time": 1782338447261,
+    "last_close_time": 1782381613233,
     "last_zone": "neutral"
   },
   "okb": {
-    "last_close_time": 1782252012319,
+    "last_close_time": 1782381660423,
+    "last_zone": "neutral"
+  },
+  "htx-dao": {
+    "last_close_time": 1782381655264,
     "last_zone": "neutral"
   }
 }
